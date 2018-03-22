@@ -1,0 +1,57 @@
+.container {
+    padding: 2.5% 2.5% 2.5% 2.5%;
+}
+
+.title-div {
+    border-top: 0.25em solid #7d97ad;
+}
+
+.my-name {
+    font-size: 320%;
+}
+
+.my-desc {
+    /* I choose a browser safe font famliy */
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 40%;
+}
+
+.heading {
+    padding-top: 3%;
+}
+
+.main-img {
+    width: 100%;
+}
+
+@media screen and (max-width: 1199px) {
+    .my-name {
+        font-size: 270%;
+    }
+
+    .my-desc {
+        font-size: 134%;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .my-name {
+        font-size: 203%;
+    }
+
+    .my-desc {
+        font-size: 84%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .my-desc {
+        padding-left: 20%;
+    }
+}
+/* Google Nexus 5 */
+@media screen and (max-width: 361px) {
+    .my-desc {
+        padding-left: 30%;
+    }
+}
