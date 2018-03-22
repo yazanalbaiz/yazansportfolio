@@ -17,10 +17,18 @@
         font-size: 84%;
     }
 }
-
+/* iPad */
 @media screen and (max-width: 767px) {
+    .my-name {
+        text-align: center;
+    }
+
     .my-desc {
         padding-left: 20%;
+        text-align: center;
+    }
+    .logo {
+        text-align: center;
     }
 }
 /* Google Nexus 5 */
