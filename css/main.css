@@ -24,3 +24,22 @@
     width: 100%;
 }
 
+.featured {
+    color: #7d97ad;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1.5%;
+    padding-bottom: 0.25%;
+    padding-left: 0.5%;
+}
+
+.work {
+    text-align: center;
+}
+
+.work-caption {
+    font-size: 2em;
+}
+.work-link {
+    font-size: 0.5em;
+    color: black;
+}
