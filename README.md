@@ -9,3 +9,6 @@ This repository is for my portfolio that I did as part of a project for Udacity'
 Just run the `index.html` file and you're good to go! :)
 
 -----
+## Attributing Owners
+- The "Closed Captions" logo was created by WGBH-TV.
+
