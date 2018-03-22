@@ -1,4 +1,7 @@
 @media screen and (max-width: 1199px) {
+    .heading {
+        padding-top: 6%;
+    }
     .my-name {
         font-size: 270%;
     }
@@ -9,6 +12,10 @@
 }
 
 @media screen and (max-width: 991px) {
+    .heading {
+        padding-top: 12%;
+    }
+
     .my-name {
         font-size: 203%;
     }
