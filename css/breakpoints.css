@@ -26,6 +26,7 @@
 }
 /* iPad */
 @media screen and (max-width: 767px) {
+
     .my-name {
         text-align: center;
     }
@@ -36,6 +37,7 @@
     }
     .logo {
         text-align: center;
+        margin-right: 0;
     }
 }
 /* Google Nexus 5 */
