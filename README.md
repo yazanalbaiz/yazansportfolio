@@ -2,6 +2,8 @@
 # Yazan's Portfolio
 
 This repository is for my portfolio that I did as part of a project for Udacity's Front-End Nano Degree.
+I was required to turn `design-mockup-portfolio.pdf` into a responsive web page.
+I used HTML5, CSS3 and Bootstrap's grid system to do that.
 
 -----
 ## Usage
